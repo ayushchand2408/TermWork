@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Department,Salary,Joining Date
+1,Employee 1,27,Marketing,85751,2022-08-02 08:58:35.883037
+2,Employee 2,31,Marketing,110178,2024-05-16 08:58:35.883037
+3,Employee 3,None,Sales,57065,2022-11-10 08:58:35.883037
+4,Employee 4,38,Finance,94769,2023-03-07 08:58:35.883037
+5,Employee 5,None,HR,90296,2025-01-09 08:58:35.883037
+6,Employee 6,28,Engineering,102345,2024-12-04 08:58:35.883037
+7,Employee 7,40,Sales,103564,2024-06-30 08:58:35.883037
+8,Employee 8,41,Engineering,123592,None
+9,Employee 9,56,Marketing,67868,2023-06-14 08:58:35.883037
+10,Employee 10,25,Finance,77068,2022-06-17 08:58:35.883037
